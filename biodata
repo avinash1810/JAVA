@@ -1,0 +1,23 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class GUVI
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+
+
+	}		
+		String name = "Sridevi";
+        String city = "Chennai";
+        int age = 32;
+        float height = 5.3f;
+        boolean married = true;
+        String sex ="f";
+        double citypopulation = 4.828853;
+        
+      System.out.println("\n bio name:"+name+ "\n city:"+city+ "\n age:"+age+ "\n height:"+height+ "\n married:"+married+"\n sex:"+sex+ "\n citypopulation:"+citypopulation);
+	
+}
